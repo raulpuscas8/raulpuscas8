@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
-<h3 align="center">I am Sw tester working at Nokia</h3>
+<h3 align="center">I am Sw tester working at Nokia and I am studying a master program at Politehnica Univeristy of Timisoara.</h3>
 
 - 🔭 I’m currently working on [DolceLantern](https://github.com/raulpuscas8/DolceLantern)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/raul-ioan-pușcaș-267008210/](https://www.linkedin.com/in/raul-ioan-pușcaș-267008210/)
 
-- ⚡ Fun fact **I love socialization & gaming**
+- ⚡ **I love socialization & gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
