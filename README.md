@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
-<h3 align="center">I am Sw tester working at Nokia and I am studying a master program at Politehnica Univeristy of Timisoara.</h3>
+<h3 align="center">I am Sw engineer working at Nokia and I am studying a master program at Politehnica Univeristy of Timisoara.</h3>
 
 - 🔭 I’m currently working on [AllyTalk](https://github.com/raulpuscas8/AllyTalk)
 
