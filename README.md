@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">I am Sw engineer working at Nokia and I am studying a master program at Politehnica Univeristy of Timisoara.</h3>
 
-- 🔭 I’m currently working on [AllyTalk](https://github.com/raulpuscas8/AllyTalk)
+- 🔭 I’m currently working on [ArtistHive](https://github.com/raulpuscas8/ArtistHive)
 
 - 🌱 I’m currently learning **React Native & Machine Learning with Python**
 
@@ -10,8 +10,6 @@
 - 📫 How to reach me **raul.puscas86@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/raul-ioan-pușcaș-267008210/](https://www.linkedin.com/in/raul-ioan-pușcaș-267008210/)
-
-- ⚡ **I love socialization & gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
